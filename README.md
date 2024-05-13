@@ -16,3 +16,5 @@ The fix in this mod is implemented by not using `CampaignEvents.OnPlayerBattleEn
 `CampaignEvents.OnMissionEndedEvent` which is fired before previous event. This might result in unintended
 change that a player now needs to play the battle to get the valor, but to be honest that feels fitting
 (and is probably the way _TaleWorlds_ wanted to implement it).
+
+**[Nexus Mods](https://www.nexusmods.com/mountandblade2bannerlord/mods/6835)**
