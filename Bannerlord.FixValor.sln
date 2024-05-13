@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bannerlord.FixValor", "Bannerlord.FixValor\Bannerlord.FixValor.csproj", "{D082A8DF-CF58-4C3E-AEA0-CF933A162079}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D082A8DF-CF58-4C3E-AEA0-CF933A162079}.Debug|x64.ActiveCfg = Debug|x64
+		{D082A8DF-CF58-4C3E-AEA0-CF933A162079}.Debug|x64.Build.0 = Debug|x64
+		{D082A8DF-CF58-4C3E-AEA0-CF933A162079}.Release|x64.ActiveCfg = Release|x64
+		{D082A8DF-CF58-4C3E-AEA0-CF933A162079}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55E8A231-8759-4254-AAF2-9CF3AB99BABB}
+	EndGlobalSection
+EndGlobal
