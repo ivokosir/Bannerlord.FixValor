@@ -1,5 +1,5 @@
 # Fix Valor
-TLDR: Did you know that you basically can't get Valor in newer versions of Bannerlord? This mod fixes that!
+In Bannerlord the only way to get valor is to fight battles against the odds, but this is broken in current versions of the game. This mod fixes that!
 
 ## Details
 In newer changes `PlayerEncounter` class calls a function `MapEvent.RecalculateStrengthOfSides()` while
